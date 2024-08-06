@@ -1,0 +1,25 @@
+.nav-bar-container {
+  > span {
+    font-size: 20px;
+  }
+  background-color: #000000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 48px;
+  color: #ffffff;
+  font-size: 16x;
+  padding: 0 1.5rem;
+  .profile-container {
+    cursor: pointer;
+    background: #ffffff;
+    border-radius: 24px;
+    padding: 1px 12px;
+    color: #000000;
+    display: flex;
+    align-items: center;
+    .alpha-users:before {
+      font-size: 1.5rem !important;
+    }
+  }
+}
