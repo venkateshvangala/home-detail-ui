@@ -6,6 +6,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `Project Clone`
+
+Cloen the project from the given URL [https://github.com/venkateshvangala/home-detail-ui.git](home-detail-ui)
+
+Navigate to the project by following commands
+cd home-detail-ui
+
+### `npm install`
+
+run the command npm install to insall all the dependancies
+
 ### `npm start`
 
 Runs the app in the development mode.\
